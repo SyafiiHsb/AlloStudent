@@ -71,8 +71,7 @@ Pastikan Anda sudah menginstal **PHP**, **Composer**, dan **Laragon/XAMPP** di k
 ---
 
 ## 📸 Preview Dasbor
-*(Anda bisa memasukkan screenshot yang Anda lampirkan tadi di sini)*
-![Dashboard AlloStudent](path/ke/screenshot/anda.png)
+<img src="Dashboard.png" alt="">
 
 ---
 
